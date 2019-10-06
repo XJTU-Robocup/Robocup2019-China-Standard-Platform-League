@@ -1,0 +1,2 @@
+# Robocup2019-China-Standard-Platform-League
+这里是西安交通大学Robocup机器人队在2019年RoboCup机器人世界杯中国赛所用的所有策略程序
